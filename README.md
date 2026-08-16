@@ -36,9 +36,3 @@
 *   Cannons, muskets, pistols, machine guns, rocket launchers, blasters, and more
 
 ***
-
-### Troubleshooting
-
-If you encounter problems during launch, it is recommended to:
-
-Reinstall the launcher and the modpack
