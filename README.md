@@ -23,7 +23,7 @@
 *   Full production automation
 *   Numerous energy generation methods:
     *   Thermal power plants (coal, gas, liquid)
-    *   Nuclear power plants (RBMK, VVER, Zirnox, etc.)
+    *   Nuclear power plants (RBMK, PWR, Zirnox, etc.)
     *   Hydroelectric power plants
     *   Windmills
     *   Solar panels
