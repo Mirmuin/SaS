@@ -36,3 +36,6 @@
 *   Cannons, muskets, pistols, machine guns, rocket launchers, blasters, and more
 
 ***
+
+Discord:      https://discord.gg/AG3RjDgvA2
+Curseforge:   https://www.curseforge.com/minecraft/modpacks/space-and-steel-industry
