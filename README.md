@@ -3,9 +3,11 @@
 
 ## Description
 
-**Space & Steel: Industry** is a journey of building a technological civilization. You will start with mechanics and steam engines, go through the chemical revolution and electronics, master atomic and thermonuclear energy. Your ultimate goal is the conquest of space — from the first rockets to orbital factories and the construction of a Dyson Sphere to harness the energy of a star. Key Mod Trailer (NTM Space) [https://youtu.be/Dgh6G62YWBM?si=PZY5r7\_dW9dbxIpd](https://youtu.be/Dgh6G62YWBM?si=PZY5r7_dW9dbxIpd)
+**Space & Steel: Industry** is a groundbreaking technological modpack for version 1.7.10, inviting players to undertake a grand journey of advancement from a primitive campfire to the construction of a Dyson Sphere. Tailored for a deep survival playthrough, it challenges your engineering skills with immensely complex automation chains, NTM's radiation hazards, and a space-faring endgame—with each successive stage building upon and expanding the previous ones. 
+Trailer of the mod that inspired [NTM Space](https://youtu.be/Dgh6G62YWBM?si=PZY5r7\_dW9dbxIpd)
 
 ***
+
 
 ### Pillars of Fashion
 
