@@ -40,4 +40,5 @@ Trailer of the mod that inspired [NTM Space](https://youtu.be/Dgh6G62YWBM?si=PZY
 ***
 
 Discord:      https://discord.gg/AG3RjDgvA2
+
 Curseforge:   https://www.curseforge.com/minecraft/modpacks/space-and-steel-industry
