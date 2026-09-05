@@ -9,7 +9,7 @@ Trailer of the mod that inspired [NTM Space](https://youtu.be/Dgh6G62YWBM?si=PZY
 ***
 
 
-### Pillars of Fashion
+### Pillars of Mods
 
 *   [NTM: Space](https://www.curseforge.com/minecraft/mc-mods/ntm-space)
 *   [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering)
